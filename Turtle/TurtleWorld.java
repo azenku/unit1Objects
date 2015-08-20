@@ -9,5 +9,27 @@ public class TurtleWorld
         turtle.setPenColor(Color.RED);
         turtle.penDown();
         turtle.forward(50);
+        turtle.backward(30);
+        turtle.turnLeft();
+        turtle.forward(50);
+        turtle.forward(50);
+        turtle.backward(30);
+        turtle.turnLeft();
+        turtle.forward(50);turtle.forward(50);
+        turtle.backward(30);
+        turtle.turnLeft();
+        turtle.forward(50);turtle.forward(50);
+        turtle.backward(30);
+        turtle.turnLeft();
+        turtle.forward(50);turtle.forward(50);
+        turtle.backward(30);
+        turtle.turnLeft();
+        turtle.forward(50);turtle.forward(50);
+        turtle.backward(30);
+        turtle.turnLeft();
+        turtle.forward(50);turtle.forward(50);
+        turtle.backward(30);
+        turtle.turnLeft();
+        turtle.forward(50);
     }
 }
